@@ -1,0 +1,1 @@
+Song.create(title: "Happy Birthday", released: true, release_year: 1901, artist_name: "Mozart", genre: "punk rock")
